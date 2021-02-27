@@ -1,2 +1,2 @@
 # Optimization-Algorithms
-Optimization algorithms  implemeted to solve Berlin TSP
+Optimization algorithms  implemeted to solve TSP
