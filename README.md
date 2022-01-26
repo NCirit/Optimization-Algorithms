@@ -1,2 +1,2 @@
 # Optimization-Algorithms
-Optimization algorithms  implemeted to solve TSP
+Optimization algorithms  implemented to solve TSP
